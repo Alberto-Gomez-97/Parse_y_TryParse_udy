@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\bin\Debug\net6.0\Parse y TryParse_udy.exe
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\bin\Debug\net6.0\Parse y TryParse_udy.deps.json
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\bin\Debug\net6.0\Parse y TryParse_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\bin\Debug\net6.0\Parse y TryParse_udy.dll
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\bin\Debug\net6.0\Parse y TryParse_udy.pdb
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\Parse y TryParse_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\Parse y TryParse_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\Parse y TryParse_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\Parse y TryParse_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\Parse y TryParse_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\Parse y TryParse_udy.dll
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\refint\Parse y TryParse_udy.dll
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\Parse y TryParse_udy.pdb
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\Parse y TryParse_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\Parse y TryParse_udy\Parse y TryParse_udy\obj\Debug\net6.0\ref\Parse y TryParse_udy.dll
